@@ -1,6 +1,6 @@
 # Praca domowa z *"Podstawy Programowania"*
 ---
-# *Podstawowe komendy terminala używane przeze mnie podczas zajęć*#
+# *Podstawowe komendy terminala używane przeze mnie podczas zajęć* #
 
    *  ls 
    *  cd Pulpit 
